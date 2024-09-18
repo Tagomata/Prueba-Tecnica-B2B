@@ -1,8 +1,5 @@
 # 🚀 PRUEBA-TECNICA-B2B
 
-<div align="center">
-  <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/docker-logo-1FED3C7A-7C1E-4F2B-B4A4-A3E1AEAFF3D5.png" alt="Docker Logo" width="200"/>
-</div>
 
 ## 🌟 Descripción del Proyecto
 
@@ -32,9 +29,7 @@ PRUEBA-TECNICA-B2B/
 
 ## 🛠️ Servicios
 
-<div align="center">
-  <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/services-icons-C5E5D7F1-2C2C-4E1C-9A2C-F6AACD6E9D7C.png" alt="Services Icons" width="400"/>
-</div>
+
 
 - **Nginx**: 🌐 Servidor web y proxy inverso.
 - **PHP**: 🐘 Procesamiento del lado del servidor.
@@ -100,9 +95,6 @@ El archivo `docker-compose.yml` en la raíz del proyecto define y configura todo
 
 ## 🧪 Pruebas
 
-<div align="center">
-  <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/testing-illustration-4A8E2C7C-E27B-4F3D-8D0B-0EFDFF4DFCB7.png" alt="Testing Illustration" width="300"/>
-</div>
 
 Para verificar que todos los servicios están funcionando correctamente:
 
@@ -142,7 +134,3 @@ Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo `LICENS
 ## 📞 Contacto
 
 Si tienes alguna pregunta o comentario, por favor abre un issue en este repositorio.
-
-<div align="center">
-  <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/thank-you-3D4295B4-4A7F-4C4D-9A43-9EABD6E0A4B3.png" alt="Thank You" width="200"/>
-</div>
